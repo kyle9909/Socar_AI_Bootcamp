@@ -1,0 +1,7 @@
+names:
+- crack
+- dent
+- scratch
+nc: 3
+train: Socar_Hackerthon-2/train/images
+val: Socar_Hackerthon-2/valid/images
