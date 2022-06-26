@@ -16,6 +16,7 @@
 - 416 resize
 - 총 250장으로 augmentation 후 train data에 포함
 <br>
+
 ### YOLOv5s를 사둉한 detection model
 - yolov5s
 - Data : 3239 (train : val = 8:2)
